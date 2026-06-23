@@ -1,0 +1,11 @@
+EmailClient.exe
+
+*.exe
+
+*.o
+
+*.obj
+
+.vscode/
+
+database/emails.db
